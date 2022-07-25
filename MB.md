@@ -1,7 +1,7 @@
 ---
-title: Introduction
+title: Microcontroller Basics
 layout: template
-filename: intro
+filename: MB
 --- 
 
 # How to Create a Multi-page Website using Github Pages

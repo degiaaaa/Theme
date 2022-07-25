@@ -1,7 +1,7 @@
 ---
-title: Our Story
+title: Machine Learning Basics
 layout: template
-filename: story
+filename: MLB
 --- 
 
 # Our Story

@@ -1,5 +1,5 @@
 ---
-title: TinyML Guide
+title: Introduction
 layout: template
 filename: index
 --- 
