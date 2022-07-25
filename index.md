@@ -1,7 +1,7 @@
 ---
 title: Microcontroller Basics
 layout: template
-filename: MLB
+filename: index
 --- 
 
 # patrickandfrantonarethebestninjas
