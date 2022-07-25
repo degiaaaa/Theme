@@ -6,7 +6,7 @@ filename: index
 
 # patrickandfrantonarethebestninjas
 
-## Created by [Patrick Huston](http://www.patrickhuston.com/) and [Franton Lin](frantonlin.com)
+## Created by [Hahn Schickard](https://www.innbw.de/de/innbw/hahn-schickard-villingen-schwenningen-institut-f%C3%BCr-mikro-und-informationstechnik/)
 
 #### What is patrickandfrantonarethebestninjas?
 This project aims to demonstrate without a doubt why Patrick and Franton are the best ninjas. 
