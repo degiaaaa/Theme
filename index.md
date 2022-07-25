@@ -1,7 +1,7 @@
 ---
 title: Machine Learning Basics
 layout: template
-filename: 3
+filename: index
 --- 
 
 # patrickandfrantonarethebestninjas
