@@ -1,5 +1,5 @@
 ---
-title: Python Basics
+title: Intorduction
 layout: template
 filename: index
 --- 
