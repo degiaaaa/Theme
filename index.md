@@ -1,5 +1,5 @@
 ---
-title: pafatbn forever!
+title: TinyML Guide
 layout: template
 filename: index
 --- 
