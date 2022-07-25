@@ -1,7 +1,7 @@
 ---
 title: Welcome to the TinyML Gudie
 layout: template
-filename: MB
+filename: intro
 --- 
 
 # How to Create a Multi-page Website using Github Pages

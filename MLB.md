@@ -1,7 +1,7 @@
 ---
-title: Machine Learning Basics
+title: Microcontroller Basics
 layout: template
-filename: MLB
+filename: MB
 --- 
 
 # How to Create a Multi-page Website using Github Pages

@@ -1,5 +1,5 @@
 ---
-title: Microcontroller Basics
+title: Machine Learning Basics
 layout: template
 filename: index
 --- 
