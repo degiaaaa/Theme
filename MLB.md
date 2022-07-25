@@ -1,7 +1,7 @@
 ---
 title: Machine Learning Basics
 layout: template
-filename: intro
+filename: MLB
 --- 
 
 # How to Create a Multi-page Website using Github Pages
