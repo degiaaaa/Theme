@@ -266,11 +266,6 @@ button {
   overflow: visible;
 }
 
-.btn {
-  padding: 0.6rem 0.9rem;
-  font-size: 0.9rem;
-  margin: 0.75rem;
-}
 
 /**
  * Address inconsistent `text-transform` inheritance for `button` and `select`.
