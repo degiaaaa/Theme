@@ -1,7 +1,7 @@
 ---
-title: Microcontroller Basics
+title: Welcome to the TinyML Guide
 layout: template
-filename: MB
+filename: intro
 --- 
 
 # How to Create a Multi-page Website using Github Pages

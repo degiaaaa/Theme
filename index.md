@@ -1,7 +1,7 @@
 ---
-title: Intorduction
+title: Machine Learning Basics
 layout: template
-filename: index
+filename: MLB
 --- 
 
 # patrickandfrantonarethebestninjas
