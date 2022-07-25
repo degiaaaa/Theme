@@ -1,5 +1,5 @@
 ---
-title: A
+title: Python Basics
 layout: template
 filename: index
 --- 
