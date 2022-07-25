@@ -255,7 +255,7 @@ select,
 textarea {
   color: inherit; /* 1 */
   font: inherit; /* 2 */
-  margin: 0.75rem; /* 3 */
+  margin: 0; /* 3 */
 }
 
 /**
@@ -311,6 +311,7 @@ button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
   padding: 0;
+  margin: 0.75em;
 }
 
 /**
