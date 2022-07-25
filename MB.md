@@ -1,5 +1,5 @@
 ---
-title: Microcontroller Basics
+title: Welcome to the TinyML Gudie
 layout: template
 filename: MB
 --- 

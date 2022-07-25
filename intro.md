@@ -1,5 +1,5 @@
 ---
-title: Welcome to the TinyML Guide
+title: Machine Learning Basics
 layout: template
 filename: intro
 --- 
