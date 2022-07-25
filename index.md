@@ -1,7 +1,7 @@
 ---
 title: Introduction
 layout: template
-filename: anfang
+filename: index
 --- 
 
 # patrickandfrantonarethebestninjas
