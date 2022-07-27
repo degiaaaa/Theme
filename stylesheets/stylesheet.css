@@ -19,9 +19,9 @@ a {
 .btn {
   display: inline-block;
 margin: 0.75rem;
-  color: #606c71;
+  color: rgba(255, 255, 255, 0.08);
   background-color: rgba(255, 255, 255, 0.08);
-  border-color: #606c71;
+  border-color: rgba(255, 255, 255, 0.08);
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
@@ -34,10 +34,10 @@ margin: 0.75rem;
   } 
 
 .btn:hover {
-  color: #606c71;
+  color:rgba(255, 255, 255, 0.08);
   text-decoration: none;
   background-color: rgba(255, 255, 255, 0.08);
-  border-color: #606c71; }
+  border-color: rgba(255, 255, 255, 0.08) }
 
 @media screen and (min-width: 64em) {
   .btn {
@@ -60,9 +60,9 @@ margin: 0.75rem;
       
 /** davor: #159957   background-color:#f28446; */
 .page-header {
-  color: #606c71;;
+  color: rgba(255, 255, 255, 0.08);
   text-align: center;
-  background-image: linear-gradient(120deg,#f28546d7, #85b5d9d7); }
+  background-image: linear-gradient(120deg,#f28546, #85b5d9); }
 
 @media screen and (min-width: 64em) {
   .page-header {
@@ -117,7 +117,7 @@ margin: 0.75rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #819198; }
+  color: #f28546; }
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
