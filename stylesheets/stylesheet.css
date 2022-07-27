@@ -58,11 +58,10 @@ margin: 0.75rem;
       margin-top: 1rem;
       margin-left: 0; } }
       
-/** davor: #159957 */
+/** davor: #159957   background-color:#f28446; */
 .page-header {
   color: #606c71;;
   text-align: center;
-  background-color:#f28446;
   background-image: linear-gradient(120deg,#f28446, #85b4d9); }
 
 @media screen and (min-width: 64em) {
