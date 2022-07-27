@@ -3,7 +3,7 @@ title: Projects
 layout: template
 filename: index
 --- 
-
+# Projects
 <!---
 # patrickandfrantonarethebestninjas
 
