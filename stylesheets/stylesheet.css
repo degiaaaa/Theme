@@ -37,7 +37,7 @@ margin: 0.75rem;
   color: rgba(0, 0, 0, 0.836);
   text-decoration: none;
   background-color: rgba(0, 0, 0, 0.836);
-  border-color: rgba(255, 255, 255, 0.3); }
+  border-color: rgba(0, 0, 0, 0.836); }
 
 @media screen and (min-width: 64em) {
   .btn {
