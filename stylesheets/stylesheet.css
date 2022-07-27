@@ -20,7 +20,7 @@ a {
   display: inline-block;
 margin: 0.75rem;
   color: rgba(0, 0, 0, 0.836);
-  background-color: rgba(0, 0, 0, 0.836);
+  background-color: #ffftest666;
   border-color: rgba(0, 0, 0, 0.836);
   border-style: solid;
   border-width: 1px;
@@ -36,7 +36,7 @@ margin: 0.75rem;
 .btn:hover {
   color: rgba(0, 0, 0, 0.836);
   text-decoration: none;
-  background-color: rgba(0, 0, 0, 0.836);
+  background-color: #fff;
   border-color: rgba(0, 0, 0, 0.836); }
 
 @media screen and (min-width: 64em) {
@@ -60,7 +60,7 @@ margin: 0.75rem;
       
 /** davor: #159957  bei color #fff */
 .page-header {
-  color: rgba(0, 0, 0, 0.836);
+  color: #fff;
   text-align: center;
   background-color:#f28446;
   background-image: linear-gradient(120deg,#f28446, #85b4d9); }
