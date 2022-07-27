@@ -19,9 +19,9 @@ a {
 .btn {
   display: inline-block;
 margin: 0.75rem;
-  color: rgba(255, 255, 255, 0.7);
+  color: #606c71;
   background-color: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.2);
+  border-color: #606c71;
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
@@ -34,10 +34,10 @@ margin: 0.75rem;
   } 
 
 .btn:hover {
-  color: rgba(255, 255, 255, 0.8);
+  color: #606c71;
   text-decoration: none;
-  background-color: rgba(255, 255, 255, 0.2);
-  border-color: rgba(255, 255, 255, 0.3); }
+  background-color: rgba(255, 255, 255, 0.08);
+  border-color: #606c71; }
 
 @media screen and (min-width: 64em) {
   .btn {
