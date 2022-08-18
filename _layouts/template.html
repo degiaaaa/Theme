@@ -43,12 +43,12 @@
         
       </li>
       <li class="has-subnav">
-          <a href="2.md">
-              <i class="fa fa-laptop fa-2x"></i>
-              <span class="nav-text">
-                  Microcontroller Basic
-              </span>
-          </a>
+        {% for page in site.pages %}
+        <a href= {{ page.filename }} class="btn">{{ page.title }}</a>
+      {% endfor %}
+      <a href="https://github.com/phuston/patrickandfrantonarethebestninjas" class="btn">View on GitHub</a>
+      <a href="https://github.com/phuston/patrickandfrantonarethebestninjas/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/phuston/patrickandfrantonarethebestninjas/tarball/master" class="btn">Download .tar.gz</a>
           
       </li>
       <li class="has-subnav">
